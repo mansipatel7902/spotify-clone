@@ -1,7 +1,7 @@
 # 🎵 Spotify Clone
 
 A responsive Spotify Clone built using **HTML** and **CSS**, inspired by Spotify's web player interface.
-
+live demo : spotify-clone-by-mansi.vercel.app
 ## 🚀 Features
 
 - Responsive design
